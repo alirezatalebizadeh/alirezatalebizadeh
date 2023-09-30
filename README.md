@@ -9,7 +9,6 @@ I am a react programmer and I have experience working with different tools to cr
 * 🌍  I'm based in iran
 * 🖥️  See my portfolio at [MyPortfolio](https://alirezatalebizadeh.netlify.app/)
 * ✉️  You can contact me at [btc.lider78@gmail.com](mailto:btc.lider78@gmail.com)
-* 🚀  I'm currently working on [orkideh-retoarant](http://orkideh-restoarant.netlify.app)
 * 🧠  I'm learning js and react
 * 🤝  I'm open to collaborating on frontend
 
